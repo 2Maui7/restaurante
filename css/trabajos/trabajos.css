@@ -1,0 +1,6 @@
+.trabajos{
+    display: inline-flex;
+    margin-left: 3.2rem;
+    justify-content: center;
+    box-shadow: black;
+}

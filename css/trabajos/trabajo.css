@@ -1,0 +1,8 @@
+.trabajo{
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 0.5rem;
+    margin-left: 1.5rem;
+    align-items: center;
+}

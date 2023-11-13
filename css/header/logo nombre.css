@@ -1,0 +1,10 @@
+.logo__nombre{
+    display: flex;
+    padding-left: 1rem;
+}
+.nombre__rojo{
+    color: rgba(199, 107, 42, 0.866)
+}
+.nombre__amarillo{
+    color: rgb(255, 183, 0);
+}
